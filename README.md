@@ -1,6 +1,6 @@
 # Snippet Example
 
-Checkout .vscode/example_snippet.code-snippets
+Check this file .vscode/example_snippet.code-snippets
 
 - Abstract Class
 - BodyParser
